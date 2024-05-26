@@ -3,7 +3,7 @@
     {
       "nome_item": "Frango Asiatico",
       "preco_item": 25.99,
-      "endereco_imagem": "https://raw.github.com/ErickLemosB/JavaOOP/blob/c2cdf1ae78abd20ef1c0c8abf3fc630851c81d9e/cardapio/blob/frango_asiatico"
+      "endereco_imagem": "https://raw.githubusercontent.com/ErickLemosB/JavaOOP/cardapio/blob/frango_asiatico"
     }
   ]
 }
