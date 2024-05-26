@@ -1,9 +1,0 @@
-{
-  "itens_menu": [
-    {
-      "nome_item": "Frango Asiatico",
-      "preco_item": 25.99,
-      "endereco_imagem": "https://github.com/ErickLemosB/JavaOOP/blob/7e2247fff5906f34944e0b920d11fc1bed0a4ce2/cardapio/blob/frango_asiatico"
-    }
-  ]
-}
