@@ -3,12 +3,12 @@
     {
       "nome_item": "Frango Asiatico",
       "preco_item": 25.99,
-      "endereco_imagem": "https://raw.githubusercontent.com/Melissa-Moreira-Oliveira/m2_mobile/main/cardapio/blob/frango_asiatico"
+      "endereco_imagem": "https://raw.githubusercontent.com/ErickLemosB/JavaOOP/main/cardapio/blob/frango_asiatico"
     },
     {
       "nome_item": "Salada",
       "preco_item": 13.99,
-      "endereco_imagem": "https://raw.githubusercontent.com/Melissa-Moreira-Oliveira/m2_mobile/main/cardapio/blob/salada"
+      "endereco_imagem": "https://raw.githubusercontent.com/ErickLemosB/JavaOOP/main/cardapio/blob/salada"
     }
   ]
 }
