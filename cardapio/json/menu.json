@@ -19,6 +19,16 @@
       "nome_item": "Carbonara",
       "preco_item": 23.99,
       "endereco_imagem": "https://raw.githubusercontent.com/ErickLemosB/JavaOOP/main/cardapio/blob/carbonara"
+    },
+    {
+      "nome_item": "Água",
+      "preco_item": 4.50,
+      "endereco_imagem": "https://raw.githubusercontent.com/ErickLemosB/JavaOOP/main/cardapio/blob/agua"
+    },
+    {
+      "nome_item": "Suco",
+      "preco_item": 7.99,
+      "endereco_imagem": "https://raw.githubusercontent.com/ErickLemosB/JavaOOP/main/cardapio/blob/suco"
     }
   ]
 }
