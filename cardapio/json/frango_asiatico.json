@@ -1,0 +1,9 @@
+{
+  "itens_menu": [
+    {
+      "nome_item": "Frango Asiatico",
+      "preco_item": 25.99,
+      "endereco_imagem": "https://raw.githubusercontent.com/Melissa-Moreira-Oliveira/m2_mobile/main/cardapio/blob/frango_asiatico"
+    }
+  ]
+}
