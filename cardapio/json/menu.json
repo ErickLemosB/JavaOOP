@@ -1,0 +1,24 @@
+{
+  "itens_menu": [
+    {
+      "nome_item": "Frango Asiatico",
+      "preco_item": 25.99,
+      "endereco_imagem": "https://raw.githubusercontent.com/ErickLemosB/JavaOOP/main/cardapio/blob/frango_asiatico"
+    },
+    {
+      "nome_item": "Salada",
+      "preco_item": 13.99,
+      "endereco_imagem": "https://raw.githubusercontent.com/ErickLemosB/JavaOOP/main/cardapio/blob/salada"
+    },
+    {
+      "nome_item": "Ramen",
+      "preco_item": 29.99,
+      "endereco_imagem": "https://raw.githubusercontent.com/ErickLemosB/JavaOOP/main/cardapio/blob/Ramen"
+    },
+    {
+      "nome_item": "Carbonara",
+      "preco_item": 23.99,
+      "endereco_imagem": "https://raw.githubusercontent.com/ErickLemosB/JavaOOP/main/cardapio/blob/carbonara"
+    }
+  ]
+}
